@@ -4,7 +4,7 @@ Frontend demo platform built with React + TypeScript to showcase authentication 
 
 # Live Link 
 
-https://carepulse-b2b.vercel.app/login
+https://carepulse-b2b.vercel.app
 
 ## Tech stack
 
